@@ -1,4 +1,4 @@
-#PCTC Round 1 Demo 2
+# PCTC Round 1 Demo 2
 
 num1 = int(input())
 num2 = int(input())
